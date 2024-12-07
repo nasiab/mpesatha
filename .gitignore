@@ -1,0 +1,4 @@
+model-1-audio-predict/.venv/
+model-1-audio-predict/__pycache__
+model-2-bertopic/demo-model
+model-3-predict-image/.venv/

@@ -1,0 +1,19 @@
+name: bertopic_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.12
+  - bertopic==0.16.2
+  - joblib==1.4.2
+  - numba==0.58.1
+  - transformers==4.31.0
+  - sentence-transformers==2.2.2
+  - scikit-learn==1.0.2
+  - umap-learn==0.5.3
+  - hdbscan==0.8.29
+  - flask
+  - pip
+pip:
+ - sentence-transformers
+ - bertopic
+ - flask-cors
